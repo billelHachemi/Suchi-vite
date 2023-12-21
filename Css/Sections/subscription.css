@@ -64,6 +64,11 @@
   border-radius: 46px;
 }
 
+@media screen and (max-width: 500px) {
+.subscription__form{
+  min-width: 70%;
+}
+}
 
 
 
